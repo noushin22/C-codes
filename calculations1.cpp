@@ -1,4 +1,4 @@
-// This program generates 20 random numbers from 60 to 100, each time it executes. And prints out each number along with the 
+// This program generates 20 random integers from 60 to 100, each time it executes. And prints out each number along with the 
 // the minimum and maximum number, average of all 20 numbers, the smallest gap between 2 numbers, and the sum of total gaps 
 // between all the numbers.
 // @Noushin Iqra
